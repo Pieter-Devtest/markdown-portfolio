@@ -1,8 +1,4 @@
-1. Item 1
-Details listed
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b
-4. Item 4
-    1. Item 4a
+1. Course one complete
+>Details listed
+2. Course two started
+     1. Starting 2020/04/12
